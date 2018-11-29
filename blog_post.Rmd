@@ -2,7 +2,7 @@
 title: "Top 5 Most Popular R Packages"
 author: "Liam O'Keeffe"
 date: "11/28/2018"
-output: html_document
+output: pdf_document
 ---
 
 ## 1. ggplot2
